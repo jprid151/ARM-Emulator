@@ -2,10 +2,6 @@
 
 Jonathon Pridgeon, CPS 310
 
-Submission Date: 11/7/18 Time Spent: 26 Hours
-
-#Features
-A Level Features completed (CMP,branch instructions implemented along with using MRS/MSR and OS to drive input/output)
 
 #Prerequisites:
 This program runs on Windows 10. It requires Visual Studio 2017 to run. 
@@ -78,12 +74,4 @@ Entering something when the program is not asking for it with a call to getline 
 
 Instructions with the .word directive, i.e. .word foobar may have a strange disassembly, due to there not being a reliable way to differentiate them from normal instructions that I could tell.
 
-#Project Journal:
 
-https://docs.google.com/document/d/1iNnhyYrKAkhJflg0kzPGD9T9Bhy-PcvM_0gXs5UkT0w/edit?usp=sharing
-
-#Academic Integrity Statement:
-
-"By affixing my signature below, I certify that the accompanying work represents my own intellectual effort. Furthermore, I have received no outside help other than what is documented below."
-
-Jonathon Pridgeon
