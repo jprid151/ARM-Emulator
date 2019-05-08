@@ -1,0 +1,44 @@
+push {fp}		
+add fp, sp, #0
+sub sp, sp, #12
+str r0, [fp, #-8]
+add sp, fp, #0
+ldmfd sp!, {fp}
+bx lr
+push {fp} ; (str fp, [sp, #-4]!)
+add fp, sp, #0
+sub sp, sp, #12
+str r0, [fp, #-8]
+add sp, fp, #0
+ldmfd sp!, {fp}
+bx lr
+push {fp, lr}
+add fp, sp, #4
+sub sp, sp, #8
+mov r3, #10
+str	r3, [fp, #-8]
+mov	r3, #0
+str	r3, [fp, #-12]
+b	174 <mystart+0x3c>
+ldr	r2, [fp, #-12]
+ldr	r3, [fp, #-8]
+add	r3, r2, r3
+str	r3, [fp, #-12]
+ldr	r3, [fp, #-8]
+sub	r3, r3, #1
+str	r3, [fp, #-8]
+ldr	r3, [fp, #-8]
+cmp	r3, #0
+bne	158 <mystart+0x20>
+ldr	r0, [fp, #-12]
+bl	100 <putc>
+ldr	r3, [pc, #28]	; 1ac <mystart+0x74>
+ldr	r3, [r3]
+mov	r0, r3
+bl	11c <puts>
+ldr	r3, [fp, #-12]
+mov	r0, r3
+sub	sp, fp, #4
+pop	{fp, lr}
+bx	lr
+.word	0x00000400

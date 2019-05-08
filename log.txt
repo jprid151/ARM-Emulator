@@ -1,0 +1,152 @@
+commit bcc50477c34949dbde39ea8efa4b8061bcb18c9a
+Merge: 8eb076f 5ce72be
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Nov 7 19:19:17 2018 -0500
+
+    Merge branch 'master' of ssh://csunix.cs.bju.edu/jprid151/cps310/project
+
+commit 8eb076f93ce3fa0194fa485b465c64031d36a311
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Nov 7 19:18:37 2018 -0500
+
+    final
+
+commit 5ce72beab3712b73d4135eccc6d8b18bc3789f2a
+Author: Stephen Schaub <sschaub@gmail.com>
+Date:   Thu Oct 18 17:06:51 2018 -0400
+
+    Added grading feedback
+
+commit 02e1aeabdf2d9fd00d3ce3e722cf6f23096dadfd
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Fri Oct 12 18:19:23 2018 -0400
+
+    updated readme
+
+commit 78de72f6ade89ba2161bf4cd3080df7826ac8bd8
+Merge: c4955d2 81d3589
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Fri Oct 12 18:16:08 2018 -0400
+
+    Merge branch 'master' of ssh://csunix.cs.bju.edu/jprid151/cps310/project
+
+commit c4955d20d3fc711ee17db11e50b239bf41e04263
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Fri Oct 12 18:13:37 2018 -0400
+
+    simulator 1
+
+commit 81d358952c4958c23b968eebe58364b41f08aad5
+Author: Stephen Schaub <sschaub@gmail.com>
+Date:   Thu Sep 27 15:31:35 2018 -0400
+
+    Added grading feedback
+
+commit 7417dd23c3e563b69f0865e9c57114fb69e09511
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Sep 19 21:17:23 2018 -0400
+
+    added gitignore
+
+commit 07100b8e86c116f89f518e9a396fb5a4cd62678f
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Sep 19 21:15:47 2018 -0400
+
+    added gitignore
+
+commit 4f9be13d2059697a126fb1c33c5d8cef9c3c29a0
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Sep 19 21:13:53 2018 -0400
+
+    added gitignore
+
+commit 9c4dc865372f12cebc2854240835c5a2154ba9b9
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Sep 19 21:13:29 2018 -0400
+
+    added gitignore
+
+commit 625b24fb2c672190aea8114ee87fe7d5cd91cbad
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Sep 19 21:02:28 2018 -0400
+
+    submit
+
+commit 92a5a1e286f24321a9870c9485beb7149e4a0a7f
+Merge: 014deeb 5d07b4e
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Sep 19 16:03:59 2018 -0400
+
+    test
+
+commit 014deebf113159bc2a7579bcb7764e70a5058027
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Sep 19 16:02:49 2018 -0400
+
+    test submission
+
+commit 5d07b4ebfc8cb963bd0648f194696b352272fb8f
+Author: Stephen Schaub <sschaub@gmail.com>
+Date:   Fri Sep 14 08:17:44 2018 -0400
+
+    Added grading feedback
+
+commit 75c91cbe405b908e939560a8dc0b7fac93afea07
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Tue Sep 11 19:31:44 2018 -0400
+
+    added computer, cpu classes. added openfiledialog
+
+commit 52f1aa733b6d17ecf67c50ea9ac7832c77cb64b2
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Mon Sep 10 19:58:55 2018 -0400
+
+    beginning prototype
+
+commit 412ef7b26717aa65dd740bf6e4277cb5852a5be3
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Mon Sep 10 16:49:51 2018 -0400
+
+    beginning prototype
+
+commit 0fa67aa4b9c65c78cd7bd9e2d17537f2fda89e90
+Author: git <git@csunix.bju.edu>
+Date:   Fri Sep 7 19:10:52 2018 -0400
+
+    uploaded ZIP archive (20 files)
+
+commit 70f682fd46f7e67a376a51abdb44c413dfb464d5
+Author: git <git@csunix.bju.edu>
+Date:   Fri Sep 7 19:10:13 2018 -0400
+
+    uploaded ZIP archive (96 files)
+
+commit 798beb6295bf5ee64c7e80730ecac7aa305a6efe
+Author: git <git@csunix.bju.edu>
+Date:   Fri Sep 7 19:08:14 2018 -0400
+
+    uploaded ZIP archive (96 files)
+
+commit 414f3d1abcb0ed22daf8bd05ff9a27f693f8f425
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Fri Sep 7 19:05:36 2018 -0400
+
+    submitting loader phase
+
+commit b31d1f8eec5f3087f99b6aee1eaa42decad7d1ac
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Sep 5 20:37:29 2018 -0400
+
+    Added Extract Bits Method
+
+commit 77a42a01faf5a1c7736b75a97acdb58d27d1236a
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Sep 5 16:58:05 2018 -0400
+
+    Added Extract Bits Method
+
+commit db2a5e731c372182bddb877f92180e9738d9044e
+Author: jprid151 <jprid151@students.bju.edu>
+Date:   Wed Sep 5 16:41:11 2018 -0400
+
+    First commit
